@@ -1,0 +1,27 @@
+#news{
+    list-style-type:none ;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+
+}
+
+#news > li{
+    border :1px dashed;
+    padding: 1rem 3rem;
+    width: 300px;
+}
+
+.card_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.specs_list{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-inline-start: 0px;
+    
+}

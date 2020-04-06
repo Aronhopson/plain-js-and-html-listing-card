@@ -1,0 +1,86 @@
+[
+    {
+        "name": "MC-01",
+        "sub-title": {
+            "name": "OEE",
+            "count": "98"
+        },
+        "runtime": "8Hrs 15Mins",
+        "times": [
+            20,
+            19,
+            22,
+            21.5
+        ]
+    },
+    {
+        "name": "MC-02",
+        "sub-title": {
+            "name": "OEE",
+            "count": "96"
+        },
+        "runtime": "4Hrs 30Mins",
+        "times": [
+            20,
+            19,
+            22,
+            21.5
+        ]
+    },
+    {
+        "name": "MC-03",
+        "sub-title": {
+            "name": "OEE",
+            "count": "94"
+        },
+        "runtime": "6Hrs 25Mins",
+        "times": [
+            20,
+            19,
+            22,
+            21.5
+        ]
+    },
+    {
+        "name": "MC-04",
+        "sub-title": {
+            "name": "OEE",
+            "count": "95"
+        },
+        "runtime": "9Hrs 25Mins",
+        "times": [
+            20,
+            19,
+            22,
+            21.5
+        ]
+    },
+    {
+        "name": "MC-05",
+        "sub-title": {
+            "name": "OEE",
+            "count": "90"
+        },
+        "runtime": "3Hrs 45Mins",
+        "times": [
+            20,
+            19,
+            22,
+            21.5
+        ]
+    },
+    {
+        "name": "MC-06",
+        "sub-title": {
+            "name": "OEE",
+            "count": "89"
+        },
+        "runtime": "3Hrs 35Mins",
+        "times": [
+            20,
+            19,
+            22,
+            21.5
+        ]
+    }
+]
